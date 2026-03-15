@@ -32,7 +32,7 @@ class Bird:
         self.charge = 0
 
     def process_input(self, events):
-        # TODO: implement fixed timestep impulse
+        # TODO: implement fixed timestep impulse (no idea what I meant by this)
         for event in events:
             if event.type == pygame.KEYDOWN:
                 if event.key in [pygame.K_UP, pygame.K_SPACE]:
