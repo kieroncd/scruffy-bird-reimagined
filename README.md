@@ -1,7 +1,8 @@
-# scruffy-bird
+# Scruffy Bird
 A flappy bird clone made in pygame, filled with inside jokes. It's a bit tricky to explain to someone that's new to it.
 
-The game is very early in development and probably will never be finished. It recently got an update 4 years later.
+The game is very early in development and probably will never be finished. It recently got an update 4 years later
+based on the [original](https://github.com/kieroncd/scruffy-bird)
 
 There are probably all sorts of bugs, so please use with caution.
 
